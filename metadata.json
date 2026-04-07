@@ -1,0 +1,15 @@
+{
+  "name": "Dipak Studios - Modern Premium Rebrand",
+  "description": "A high-end, cinematic web experience for the legacy Indian wedding photography brand, featuring AI-driven wedding visioning and lens-inspired micro-animations.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "keywords": [
+    "wedding photography",
+    "cinematic wedding films",
+    "luxury wedding delhi",
+    "dipak studios",
+    "destination wedding photographer india"
+  ]
+}
